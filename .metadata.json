@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "grantham",
+    "oncran": true
+  },
+  {
     "package": "hgnc",
     "oncran": true
   },
