@@ -3,24 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "grantham"]
-	path = grantham
-	url = https://github.com/maialab/grantham
-	shallow = true
-	registered = true
 [submodule "agvgd"]
 	path = agvgd
 	url = https://github.com/maialab/agvgd
 	shallow = true
 	registered = true
-[submodule "mskcc.oncotree"]
-	path = mskcc.oncotree
-	url = https://github.com/maialab/mskcc.oncotree
+[submodule "grantham"]
+	path = grantham
+	url = https://github.com/maialab/grantham
 	shallow = true
 	registered = true
 [submodule "hgnc"]
 	path = hgnc
 	url = https://github.com/maialab/hgnc
+	shallow = true
+	registered = true
+[submodule "mskcc.oncotree"]
+	path = mskcc.oncotree
+	url = https://github.com/maialab/mskcc.oncotree
 	shallow = true
 	registered = true
 [submodule "quincunx"]

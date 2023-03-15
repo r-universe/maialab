@@ -1,18 +1,18 @@
 [
   {
-    "package": "grantham",
-    "oncran": true
-  },
-  {
     "package": "agvgd",
     "oncran": true
   },
   {
-    "package": "mskcc.oncotree",
+    "package": "grantham",
     "oncran": true
   },
   {
     "package": "hgnc",
+    "oncran": true
+  },
+  {
+    "package": "mskcc.oncotree",
     "oncran": true
   },
   {
