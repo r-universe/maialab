@@ -8,9 +8,6 @@
 [submodule "grantham"]
 	path = grantham
 	url = https://github.com/maialab/grantham
-[submodule "hgnc"]
-	path = hgnc
-	url = https://github.com/maialab/hgnc
 [submodule "mskcc.oncotree"]
 	path = mskcc.oncotree
 	url = https://github.com/maialab/mskcc.oncotree
