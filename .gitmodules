@@ -11,6 +11,3 @@
 [submodule "mskcc.oncotree"]
 	path = mskcc.oncotree
 	url = https://github.com/maialab/mskcc.oncotree
-[submodule "quincunx"]
-	path = quincunx
-	url = https://github.com/maialab/quincunx
