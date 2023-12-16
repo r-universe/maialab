@@ -11,3 +11,7 @@
 [submodule "mskcc.oncotree"]
 	path = mskcc.oncotree
 	url = https://github.com/maialab/mskcc.oncotree
+[submodule "protean"]
+	path = protean
+	url = https://github.com/maialab/protean
+	registered = false
